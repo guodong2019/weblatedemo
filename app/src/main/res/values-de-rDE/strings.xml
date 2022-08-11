@@ -14,7 +14,5 @@
     <string name="auth_toast_pin_missing">Bitte setzen Sie eine PIN in den <b>Einstellungen</b>!</string>
     <string name="auth_toast_password_again">Falsches Passwort, bitte erneut versuchen!</string>
     <string name="auth_toast_pin_again">Falsche PIN, bitte erneut versuchen!</string>
-    <string name="dow_monday"></string>
-    <string name="dow_monday_short"></string>
-    <string name="dow_monday_min"></string>
+    <string name="dow_monday_short"/>
 </resources>

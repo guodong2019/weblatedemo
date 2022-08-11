@@ -14,7 +14,5 @@
     <string name="auth_toast_pin_missing">Ustaw kod PIN w <b>Ustawienia</b>!</string>
     <string name="auth_toast_password_again">Błędne hasło, spróbuj ponownie!</string>
     <string name="auth_toast_pin_again">Zły kod PIN, spróbuj ponownie!</string>
-    <string name="dow_monday"></string>
-    <string name="dow_monday_short"></string>
-    <string name="dow_monday_min"></string>
+    <string name="dow_monday_short"/>
 </resources>
