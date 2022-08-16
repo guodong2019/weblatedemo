@@ -15,4 +15,5 @@
     <string name="auth_toast_password_again">Contraseña incorrecta ¡Inténtelo de nuevo!</string>
     <string name="auth_toast_pin_again">PIN incorrecto ¡Inténtelo de nuevo!</string>
     <string name="dow_monday">Lunes</string>
+    <string name="dow_monday_short">Lunes</string>
 </resources>
